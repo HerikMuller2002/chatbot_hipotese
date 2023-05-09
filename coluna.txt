@@ -1,0 +1,93 @@
+0 - reduce the load.
+1 - check the lubricant against the specification instructions. replace with the correct lubricant.
+2 - check the level in the sight glass, and fill to the correct level. ensure that the air breather is clean and functioning properly.
+3 - check the air supply for proper fan circulation. remove any obstructions. avoid any high surrounding ambient temperatures. if the ambient temperature is high because of a local heat source, place some form of barrier between the heat source and the machine.
+4 - recheck the oil level with the unit shut down. remove any excess oil.
+5 - remove the breather, and clean it.
+6 - tighten all of the joints and end cap bolts.
+7 - check and realign the system. tighten all of the bolts.
+8 - close the pump relief valves.
+9 - check pump relief valves and the pressure control valve for normal operation. adjust as needed.
+10 - check for an oil leak. repair as necessary.
+11 - check the system control valve, and adjust as needed.
+12 - check the flow controls for proper settings and positive indication of flow. adjust the setting as necessary.
+13 - adjust the system pressure control valve to maintain a constant system pressure.
+14 - check the oil level in the reservoir and the free- floating operation of the floating suction. verify there are no obstructions causing flowing suction to stick. remove any debris from operation area. check the suction line and the strainer to the pump for a possible air leak. check the pressure tanks. if the tank is empty of oil, air may be leaking into the system from the air connection.  add oil as necessary.
+15 - purge any air from the filter casing before changing over to the standby filter to put it into service.
+16 - change the pump selector switch to reverse pumps. if the system now runs normally, investigate the pump taken out of service for a problem, such as a broken shaft.
+17 - set the standby mercoid switch approximately 5 and 15 psi below the desired system pressure.
+18 - look for oil leaks or some drastic change causing increased oil flow.
+19 - check that oil temperature on discharge side of cooler is within 10 °f of operational temperature. if it is not, make adjustments accordingly.
+20 - adjust the fluid supply to the pump.
+21 - adjust the pressure-relief valve to lower the pressure.
+22 - adjust the pump.
+23 - locate and correct the leak
+24 - decrease the pump speed.
+25 - have maintenance align the motor and pump.
+26 - find obstruction. clear intake. clean suction filters.
+27 - repair or replace the pump.
+28 - lower the suction temperature.
+29 - avoid discharge restrictions. increase the clearance at exit tips of vanes. /never/ install higher horsepower driver without redesigning discharge and suction piping.
+30 - increase the tension. the deflection of the belt at midspan should be 1/64" for each inch of span between the centerlines of the driven and driving sheaves.
+31 - increase the belt size.
+32 - clean or change the belts or sheaves.
+33 - increase the tension.
+34 - lengthen the center distance, or use an idler.
+35 - reduce the drive centers when you are installing the belts. adjust the motor position to lessen the tension on the belts. install new belts, and retention them.
+36 - test the shaft runout for eccentricity. have maintenance make repairs. increase the tension or drive capacity.
+37 - provide protective guards.
+38 - replace the sheaves.
+39 - increase the sheave diameter.
+40 - align the drive.
+41 - increase the drive capacity.
+42 - provide the correct running clearance.
+43 - clean and protect the belts.
+44 - track down and eliminate the heat source. provide ventilation.
+45 - reduce the drive centers, or provide an idler.
+46 - lubricate the bearing.
+47 - open the vent/drain plug, and purge the lubricant cavity with fresh lubricant. leave the vent open for approximately 30 minutes, and then close it
+48 - adjust the belt tension. the deflection of the belt at midspan should be 1/64" for each inch of span between the centerlines of the driven and driving sheaves.
+49 - replace the drive belts with matching belts.
+50 - move the motor inwards to detension the belts, and replace with matching belts, using the proper installation procedure. /caution/ do not use different manufacturers' belts to make up a set. always use belts from one manufacturer because manufacturing processes differ from one manufacturer to another.
+51 - replace all the belts.
+52 - reduce the overload, or install a larger drive system.
+53 - replace the belt. /caution/ never use a pry bar to install the belt in the sheave because this breaks the inner fibers on the belt and can break the sidewalls of the sheave.
+54 - replace with matching belts.
+55 -  check and adjust the alignment of the sheaves, and correct the tension.
+56 - check and adjust the alignment of the sheaves, and correct the tension.
+57 - replace the belts.
+58 - replaee the sheaves.
+59 - replace with properly sized sheaves.
+60 - check and adjust the belt tension.
+61 - remove the obstruction.
+62 - adjust and inspect the belt. replace as required.
+63 - clean and inspect the belt. replace the belt as required.
+64 - check the belt for an abrasive condition or any of the conditions mentioned as a probable cause. replace the belts as required.
+65 - check whether any other fans are discharging into the same outlet as the fan having problems. this could be a design problem. inform engineering for an evaluation.
+66 - check to see whether any dampers have been accidentally closed. open any dampers that should be open.
+67 - check the drive belts for slippage. adjust the tension if the belts are not damaged. ensure there is adequate lubrication to bearings. have the electricians check out the motor.
+68 - readjust the damper control linkage turnbuckles to the calibrated setpoints.
+69 - check the pressure differential across the filters, and clean or replace the dirty filters.
+70 - walk ducting system down, and check for leaks. an ultrasonic leak detector is an ideal tool to determine exactly where leaks occur.
+71 - ensure that the belt drive is not crossed. have the electricians check the rotation of the motor.
+72 - stop the fan, and have maintenance reverse the wheel.
+73 - perform vibration analysis to determine the magnitude of the problem, and then balance the fan. water wash the fan blades to remove the buildup of dirt. if the fan operates in a boiler exhaust system or some other high temperature gaseous system, descale the blades.
+74 - check the foundations for cracks and breakage. report the findings to engineering for resolution.
+75 - perform vibration analysis to determine the magnitude of the problem, and then align the fan shafts.
+76 - perform a soft-foot check on all the feet of the unit to determine if a soft-foot condition is the problem. add or remove shims to correct condition.
+77 - check for ducting distortion if no expansion or flex joint is fitted. adjust the hangers as needed.
+78 - ensure that the sheaves are the same width and are properly aligned with each other.
+79 - ensure that the correct lubricant is being used and that the bearings are vented during the lubricant application.
+80 - ensure that the bearing installation practices are correct.
+81 - when the fan is off, ensure that the unit is tumed to change the resting point periodically to prevent the shaft from sagging due to its own weight. check the bearing mounts for undue stress due to bad foundations and misaligned ductwork.
+82 - ensure that the belts are sitting in the correct sheaves and are aligned to run true in the v-grooves. check the lineup of the sidewalls of the sheaves with a straightedge or a stretched string.
+83 - conduct a vibration analysis to determine whether the coupling is worn. the wrong grade of lubricant may have been used and accumulated in one spot, causing an unbalanced condition.
+84 - perform an evaluation to determine the extent of resonance and to track down the excitation source(s). to temporarily stop resonance-induced vibration, alter the mass of the unit by placing some weight, such as a bag of sand, on the unit.
+85 - have electricians check the motor rotation and correct the rotation as required.
+86 - ensure that no foreign objects are causing a partial blockage on the inlet side of the fan. as fan blades turn past the obstruction, they will be unable to carry the full load and deflect.
+87 - determine the capacity of the bearing, and follow the manufacturer's recommendations for lubrication.
+88 - rotate the shaft, and let it roll until it comes to rest on its own to check for static unbalance. static unbalance can be corrected by hanging an appropriate weight opposite the resting, 6 o'clock position. engineers who have the proper instrumentation should do more complex balance correction.
+89 - when the fan is off, make sure the unit is turned off the resting point periodically to prevent the shaft from sagging due to its owm weight. check for undue stress on bearing mounts because of bad foundations and misaligned ductwork.
+90 - depress the belts at midspan, and measure the deflection to test the belt tension. the deflection should be equal to 1/64" per inch of span between the centers of the driven and driver units.
+91 - this can be cause by gross misalignment between the driver and the driven units. it can also be caused when one sheave is wider than the other one. to correct either one, align the belts to the center of the v in each sheave.
+92 - plug the bore, and remachine it true. eccentric bores cause the sheaves to turn off center, causing the belts to tension and detension each revolution. this continual jerking back and forth causes the bearings to take a terrible pounding. keys and setscrews can have the same effect by drawing a sheave ofllcenter when the force is tightened.
