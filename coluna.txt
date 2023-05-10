@@ -1,95 +1,25 @@
-0 - decrease the tension on the drive belts.
-1 - move the pulley closer to the motor bearing.
-2 - replace with larger pulleys.
-3 - correct the misalignment; realign the units
-4 - remove bracket or pedestal with bearing; clean bearing housing and oil grooves; replace oil.
-5 - use recommended lighter oil.
-6 - use recommended heavier oil.
-7 - reduce the thrust that is induced by the driver; check the magnetic center of the motor.
-8 - replace the defective bearing.
-9 - maintain correct amount of lubricant in bearing.
-10 - reduce the quantity of lubricant. /note/ reservoir should not be more than half full.
-11 - remove the old grease, wash the bearing thoroughly with kerosene, and replace with new grease.
-12 - check the alignment and the side and end thrusts.
-13 - clean housing thoroughly; replace the bearing.
-14 - check the diameter of the sheaves to ensure that they are correctly sized for the unit; check the motor for the correct horsepower and loading; clear any obstacles.
-15 - check lubrication practices; correct as required.
-16 - collect a gas sample, and have engineering and chemistry check the gas analysis to determine the problem.
-17 - ensure that the belt drive is not crossed; have the electricians check the rotation of the motor.
-18 - when the fan is off, ensure that the unit is turned off the resting point periodically to prevent the shaft from‘sagging due to its own weight.
-19 - check for undue stress on the bearing mounts due to bad foundations and misaligned ductwork.
-20 - ensure that the belts are sitting in their respective sheaves and are aligned to run true in the v-grooves; check the lineup of sidewalls of the sheaves with a straightedge or a stretched suing; have electricians check wiring; check for overgreasing, especially on units that are greased by a pump grease gun.
-21 - NaN
-22 - check the motor that has only a pedestal bearing with the other end connected to the coupling. /note/ the fan could be badly misaligned, which would affect the air gap between rotor and stator.
-23 - perform a vibration analysis; /note/ this problem will require major work and may require a new rotor.
-24 - sand or turn down.
-25 - grind or turn down balance of commutator.
-26 - if extreme, lower with a mallet blow and tighten clamp rin;. grind true.
-27 - undercut.
-28 - replace with harder grade — if worn too soon — and not by a rough commutator.
-29 - adjust.
-30 - replace.
-31 - free them; clean brushes if glazed.
-32 - wipe clean. clean brushes if glazed.
-33 - test for a short. do this after removing metallic contact between commutator bars. repair armature.
-34 - locate and replace bad coil — or repair defective joint.
-35 - realign set.
-36 - ensure all connections are tight. resolder all connections.
-37 - correct. check source of power supply; do not try to make the motor turn as it may burn up.
-38 - reduce load - or replace motor with unit of greater capacity.
-39 - replace bearings - before scraping noise indicates rotor is rubbing against stator.
-40 - check balance of rotor on parallel bars; check rotor tir; not to exceed +/- 0.002'
-41 - remove the rotor and clean.
-42 - realign the set until knocking disappears; reset the magnetic center.
-43 - determine source of vibration through analysis and correct problem.
-44 - misalignment; unbalance; bent shaft; resonance; oil whirl
-45 - realign set
-46 - eliminate source in machine, if possible. or change to a flexible belt drive may be in order
-47 - balance the rotor.
-48 - compare nameplate rating; check for excessive friction; reduce load; replace motor with one of a bigger capacity.
-49 - ensure sufficient airflow across motor; clean out dirt with a suitable solvent.
-50 - replace bearings.
-51 - test with wattmeter and correct.
-52 - locate with a test lamp or growler and repair
-53 - reduce tension using the following formula: center span of belt deflection should be 1/64 inch per inch of centerline span between driver and driven units; chain deflection should be 2% of centerline span.
-54 - reduce thrust from driver or machine; ensure motor's magnetic center is correctly located.
-55 - relieve supply to point set by the manufacturer.
-56 - clean, repair, or replace.
-57 - add to point set by the manufacturer.
-58 - replace with the proper grade.
-59 - decrease the brush spring tension.
-60 - reduce the load; use a larger contactor.
-61 - clean any discolored or dirty connections, and retighten them to the recommended torque setting.
-62 - adjust the overtravel as necessary; replace the contacts, and replace the contact springs as required to correct any defects.
-63 - clean the contact surfaces, using a fine file or sandpaper; /note/ when performing this task in a dusty environment, use a dust-tight enclosure.
-64 - change the operating procedure, and check with the factory for contacts more suitable for the length of use.
-65 - reduce the load; provide better ventilation; relocate the starter; use a larger contactor.
-66 - replace with line and cables that meet the proper nec standards recommendation.
-67 - adjust the overtravel as necessary; replace the contacts, and replace the contact springs as required to correct the defect.
-68 - correct the coil overvoltage condition; correct any mechanical defects.
-69 - adjust contacts to touch simultaneously within 1/32' or to the manufacturer's specifications.
-70 - reduce the jogging cycle. use a larger contactor.
-71 - readjust the accelerating time or the operating sequence; use a larger contactor.
-72 - insulate the starter from shock; provide a more rigid support for the starter.
-73 - adjust the overtravel, replace the contacts, replace the contact springs, and set them to the correct contact force as necessary.
-74 - clean and dress the contact faces in a dust-free environment. /caution/ do not use an emery cloth to clean and dress the contact faces; use glasspaper or a diamond file.
-75 - replace with an air breaker contactor; /note/ an air breaker contactor may have 10 to 20 times longer contact life than an oil-immersed contactor of equal rating.
-76 - the breaker may be operating properly and clearing an overload; have an electrician check to see if the current is in excess of the thermal trip rating.
-77 - visually inspect the breaker for discoloration that would indicate loose connections; have electricians torque the connections to the correct setpoint.
-78 - visually inspect the breaker for discoloration that would indicate loose connections; have the electricians check and correctly tighten the connections; /note/ machine vibrations can cause cables to loosen and can also cause cold flow when aluminum cables are used; cold flow refers to the contraction of the aluminum when the line is cooling down after the load is removed; this shrinkage can sometimes cause the connections to loosen.
-79 - replace with the correct size wire. /note/ since the cable acts as a heat sink and carries heat away from the breaker, the proper wire size is important.
-80 - if the temperature fluctuates and frequently exceeds 140 °f, install an ambient compensating breaker.
-81 - remove the trip unit from the base, and inspect it for discoloration; reinstall the trip unit, and torque it to the base in accordance with the designed settings that come with each unit. /note/ a bright cherry red color indicates a temperature of approximately 1,45 0 °f for the trip unit; if the unit has experienced thermal damage, then it must be replaced.
-82 - adjust the magnetic trip rating to the next higher setting or until the breaker does not trip when the motor is started.
-83 - retest, using a six-cycle impulse test. /note/ a slow or gradual increase in current until the trip range is reached results in the breaker tripping at a lower value than that indicated on the trip unit; a six-cycle impulse test should be used; this is how the breakers are calibrated at the factory.
-84 - close the open circuit; /note/ if an open circuit happens during transfer, the peak current during transfer could exceed 20 times the full-load amperes; /caution/ an extremely high magnetic trip setting can be supplied on the breaker, but the desired motor protection will be lost.
-85 - remove the breakers from high humidity locations since high humidity can cause dielectric and other problems associated with moisture. install heaters in the enclosure if the breakers cannot be removed l from the humidity
-86 - remove the breakers from corrosive environments if possible.
-87 - remove the cover from the breaker, and determine what type of attachment is fitted; ensure that the attachment is functioning correctly; ensure that the proper voltage is applied to an undervoltage release so that the breaker will operate when shunt trips are used; /warning/ ensure that the shunt trip is not energized while the operator is trying to close the breaker.
-88 - adjust and secure the core clamps; if other problems exist, have a qualified electrician correct them.
-89 - inform electrical maintenance.
-90 - have them correct the condition.
-91 - repair or replace as necessary.
-92 - clean the coils.
-93 - clean the air ducts.
-94 - replace the insulation; reset the breakers or firses.
+0 - pump too hot and flashing off. pump churning up fluid and failing to discharge water after an initial surge, and then continuing to recirculate
+1 - pump churning up fluid and failing to discharge water after an initial surge, and then continuing to recirculate (continued)
+2 - heavy vibrations during the operation of the pump
+3 - heavy vibrations during the operation of the pump (continued)
+4 - capacity or pressure of the pump reduced. pump failing to deliver water
+5 - motor using excessive power at rated temperature. motor protection relay being tripped by the pump
+6 - bearings running hot
+7 - bearings running hot (continued)
+8 - insufficient discharge
+9 - excessive power consumption
+10 - overheating
+11 - overheating (continued)
+12 - noisy bearing. irregular dents or material embedded in raceways
+13 - noisy bearing (continued). irregular dents or material embedded in raceways
+14 - vibration
+15 - vibration (continued)
+16 - bearing loose on the shaft
+17 - shaft difficult to turn by hand
+18 - angular misalignment
+19 - frequent replacements
+20 - oil leakage
+21 - valve gland leakage
+22 - valve gland leakage (continued)
+23 - body to bonnet gasket leakage
+24 - body to bonnet gasket leakage (continued)
