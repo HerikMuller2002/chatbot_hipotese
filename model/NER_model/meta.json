@@ -1,0 +1,46 @@
+{
+  "lang":"pt",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.5.3,<3.6.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"512241e12",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "ner":[
+      "1",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ]
+  },
+  "pipeline":[
+    "ner"
+  ],
+  "components":[
+    "ner"
+  ],
+  "disabled":[
+
+  ]
+}
