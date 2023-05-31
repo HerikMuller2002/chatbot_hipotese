@@ -1,0 +1,69 @@
+o modelo será treinado com: 
+    classes: 
+        cada classe será um valor único da coluna
+    conjunto de treinamento:
+        será composto por 3 principais tipos de dados: lista de sinonimos originais, lista de sinonimos stematizados, lista de sinonimos lematizado.
+
+-------------------------------------------------------
+
+labels NER:
+    equipamentos
+
+labels clasificador de intenção:
+    problemas
+
+-------------------------------------------------------
+Intenções:
+    Cumprimentos e saudações:
+        Usuário: Olá!
+        Usuário: Oi, tudo bem?
+        Usuário: Bom dia!
+
+    Solicitação de ajuda para solucionar um problema:
+        Usuário: Estou com um problema no meu equipamento. Você pode me ajudar?
+        Usuário: Preciso de assistência com um problema mecânico.
+
+    Identificação do equipamento:
+        Usuário: Meu motor está fazendo um barulho estranho.
+        Usuário: A transmissão do meu carro está com problemas.
+
+    Identificação do problema:
+        Usuário: A luz de advertência do óleo está acesa no painel.
+        Usuário: Meu equipamento está superaquecendo.
+
+    Pedido de resolução do problema:
+        Usuário: Como posso resolver esse problema?
+        Usuário: Quais são as etapas para solucionar esse problema?
+
+    Dúvida na identificação do equipamento:
+        Usuário: Estou com um problema, mas não sei exatamente qual é o equipamento envolvido.
+        
+    Dúvida na identificação do problema:
+        Usuário: Algo está errado, mas não tenho certeza qual é o problema específico.
+
+    Pedido de esclarecimento:
+        Usuário: Pode me explicar o que causa esse problema?
+        Usuário: Como identificar se o problema é grave?
+
+    Feedback sobre a solução fornecida:
+        Usuário: Isso resolveu meu problema, obrigado!
+        Usuário: Ainda estou tendo dificuldades após seguir as instruções.
+
+    Solicitação de informações adicionais:
+        Usuário: Você pode me recomendar algum material de referência sobre manutenção mecânica?
+        Usuário: Existe algum serviço de assistência técnica que você possa me indicar?
+
+    Reclamação ou insatisfação:
+        Usuário: Sua solução não funcionou para mim.
+        Usuário: Eu não estou satisfeito com o suporte que recebi.
+
+    Agradecimento:
+        Usuário: Obrigado pela sua ajuda!
+        Usuário: Agradeço sua assistência.
+
+    Palavras censuradas:
+        Usuário: [Palavras ofensivas ou inapropriadas]
+
+    Encerramento da conversa:
+        Usuário: Tchau!
+        Usuário: Até logo.

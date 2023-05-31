@@ -1,0 +1,212 @@
+[
+    {
+        "classe": "bomb",
+        "texts": [
+            "A bomba est\u00e1 apresentando superaquecimento e a luz indicadora est\u00e1 piscando constantemente.",
+            "A bomba est\u00e1 com temperatura elevada e a luz indicadora de superaquecimento est\u00e1 piscando intermitentemente.",
+            "A luz indicadora de superaquecimento est\u00e1 piscando com frequ\u00eancia e notei que a bomba est\u00e1 expelindo vapor excessivamente.",
+            "Estou tendo problemas com a bomba de agita\u00e7\u00e3o do meu sistema industrial. Ap\u00f3s o surto inicial, ela continua recirculando a \u00e1gua em vez de descarreg\u00e1-la.",
+            "A bomba de agita\u00e7\u00e3o do meu sistema industrial n\u00e3o est\u00e1 funcionando corretamente. Ap\u00f3s um surto inicial, ela continua recirculando a \u00e1gua e n\u00e3o descarrega como deveria.",
+            "Notei que a bomba est\u00e1 emitindo ru\u00eddo e a luz que indica temperatura est\u00e1 piscando rapidamente.",
+            "A bomba est\u00e1 com a temperatura elevada e notei que a luz indicadora de sobrecarga est\u00e1 piscando em um ritmo acelerado.",
+            "Preciso de suporte t\u00e9cnico em rela\u00e7\u00e3o \u00e0 bomba de agita\u00e7\u00e3o do meu sistema industrial. Ela est\u00e1 apresentando problemas de descarga de \u00e1gua ap\u00f3s um tempo curto de opera\u00e7\u00e3o cont\u00ednua.",
+            "A bomba de agita\u00e7\u00e3o est\u00e1 apresentando problemas ap\u00f3s um curto per\u00edodo de tempo de opera\u00e7\u00e3o. Ela n\u00e3o descarrega a \u00e1gua corretamente e continua a recircular.",
+            "Os equipamentos de refrigera\u00e7\u00e3o est\u00e3o apresentando problemas frequentes, o que tem prejudicado a conserva\u00e7\u00e3o dos nossos produtos. Solicitamos uma manuten\u00e7\u00e3o preventiva para evitar novas paradas na produ\u00e7\u00e3o."
+        ]
+    },
+    {
+        "classe": "bomb",
+        "texts": [
+            "O equipamento de bomba de agita\u00e7\u00e3o continua recirculando \u00e1gua ap\u00f3s um surto inicial.",
+            "Ap\u00f3s um surto inicial, a bomba de agita\u00e7\u00e3o continua a recircular \u00e1gua.",
+            "A bomba de agita\u00e7\u00e3o n\u00e3o para de recircular \u00e1gua, mesmo depois de um surto inicial.",
+            "Existe um problema na bomba de agita\u00e7\u00e3o que faz com que ela continue a recircular \u00e1gua ap\u00f3s um surto inicial.",
+            "O equipamento de bomba de agita\u00e7\u00e3o apresenta um problema em que a \u00e1gua continua sendo recirculada ap\u00f3s um surto inicial.",
+            "A bomba de agita\u00e7\u00e3o do flu\u00eddo descarrega \u00e1gua ap\u00f3s o surto inicial e continua a recircular sem parar.",
+            "A bomba de agita\u00e7\u00e3o do flu\u00eddo continua a descarregar \u00e1gua mesmo ap\u00f3s o in\u00edcio do processo de recircula\u00e7\u00e3o.",
+            "A descarga de \u00e1gua continua a sair da bomba de agita\u00e7\u00e3o do flu\u00eddo mesmo com o processo de recircula\u00e7\u00e3o em andamento.",
+            "H\u00e1 um problema na bomba de agita\u00e7\u00e3o do flu\u00eddo que faz com que ela continue a descarregar \u00e1gua mesmo ap\u00f3s o in\u00edcio do processo de recircula\u00e7\u00e3o.",
+            "A bomba de agita\u00e7\u00e3o do flu\u00eddo apresenta problema de descarga de \u00e1gua fora do tempo adequado durante o processo de recircula\u00e7\u00e3o."
+        ]
+    },
+    {
+        "classe": "bomb",
+        "texts": [
+            "A opera\u00e7\u00e3o da bomba est\u00e1 causando forte vibra\u00e7\u00e3o, o que pode levar a danos no equipamento ou at\u00e9 mesmo acidentes. \u00c9 necess\u00e1rio resolver este problema com urg\u00eancia.",
+            "A vibra\u00e7\u00e3o excessiva durante a opera\u00e7\u00e3o da bomba est\u00e1 gerando um ru\u00eddo alto e desconfort\u00e1vel para os funcion\u00e1rios da f\u00e1brica. Solicitamos que a manuten\u00e7\u00e3o seja realizada o quanto antes.",
+            "Notamos que a bomba est\u00e1 vibrando mais do que o normal, o que pode indicar um desgaste excessivo ou pe\u00e7as soltas. Precisamos de uma avalia\u00e7\u00e3o t\u00e9cnica para solucionar este problema.",
+            "A vibra\u00e7\u00e3o da bomba durante a opera\u00e7\u00e3o est\u00e1 afetando a qualidade dos produtos fabricados na empresa. \u00c9 imprescind\u00edvel que a manuten\u00e7\u00e3o seja feita o quanto antes para garantir a excel\u00eancia dos nossos produtos.",
+            "Observamos que a bomba est\u00e1 vibrando de forma irregular, o que pode indicar problemas com o balanceamento ou desalinhamento dos componentes. \u00c9 necess\u00e1rio que a manuten\u00e7\u00e3o seja agendada o mais r\u00e1pido poss\u00edvel para evitar poss\u00edveis falhas do equipamento.",
+            "A bomba apresenta forte vibra\u00e7\u00e3o durante sua opera\u00e7\u00e3o.",
+            "Durante o funcionamento da bomba, \u00e9 observada uma intensa vibra\u00e7\u00e3o.",
+            "A bomba apresenta uma vibra\u00e7\u00e3o excessiva durante seu funcionamento.",
+            "H\u00e1 uma grande vibra\u00e7\u00e3o na bomba enquanto ela est\u00e1 em opera\u00e7\u00e3o.",
+            "A vibra\u00e7\u00e3o durante o funcionamento da bomba \u00e9 muito forte."
+        ]
+    },
+    {
+        "classe": "bomb",
+        "texts": [
+            "A opera\u00e7\u00e3o da bomba est\u00e1 causando vibra\u00e7\u00f5es fortes e cont\u00ednuas.",
+            "A bomba est\u00e1 funcionando com vibra\u00e7\u00f5es excessivas e constantes.",
+            "A bomba est\u00e1 apresentando grandes vibra\u00e7\u00f5es enquanto em uso.",
+            "O equipamento est\u00e1 vibrando muitos durante a opera\u00e7\u00e3o da bomba.",
+            "Vibra\u00e7\u00f5es fortes est\u00e3o ocorrendo continuamente quando a bomba est\u00e1 em uso.",
+            "A bomba est\u00e1 produzindo vibra\u00e7\u00f5es fortes e constantes, o que indica a necessidade de manuten\u00e7\u00e3o.",
+            "As vibra\u00e7\u00f5es intensas da bomba est\u00e3o prejudicando o desempenho da produ\u00e7\u00e3o industrial.",
+            "A opera\u00e7\u00e3o da bomba est\u00e1 gerando uma vibra\u00e7\u00e3o excessiva e cont\u00ednua, o que pode comprometer a seguran\u00e7a do ambiente industrial.",
+            "A bomba est\u00e1 vibrando de forma intensa e cont\u00ednua, o que pode causar danos irrevers\u00edveis no equipamento se n\u00e3o for resolvido imediatamente.",
+            "A vibra\u00e7\u00e3o constante da bomba est\u00e1 afetando a produ\u00e7\u00e3o e pode comprometer a efic\u00e1cia do processo industrial."
+        ]
+    },
+    {
+        "classe": "bomb",
+        "texts": [
+            "A capacidade da m\u00e1quina diminuiu consideravelmente ap\u00f3s a \u00faltima manuten\u00e7\u00e3o, tornando o processo produtivo extremamente lento.",
+            "A press\u00e3o do ar comprimido n\u00e3o est\u00e1 atingindo o n\u00edvel necess\u00e1rio para o funcionamento do equipamento, causando falhas no sistema.",
+            "O bombeamento de l\u00edquidos est\u00e1 ocorrendo de forma insuficiente, prejudicando o desempenho da produ\u00e7\u00e3o.",
+            "A redu\u00e7\u00e3o da capacidade de refrigera\u00e7\u00e3o est\u00e1 afetando a qualidade dos produtos, causando preju\u00edzos para a empresa.",
+            "A bomba hidr\u00e1ulica est\u00e1 apresentando falhas constantes, ocasionando paradas n\u00e3o programadas na produ\u00e7\u00e3o.",
+            "A bomba fornecedora de \u00e1gua apresenta vazamento e n\u00e3o est\u00e1 conseguindo alimentar o sistema de refrigera\u00e7\u00e3o da m\u00e1quina.",
+            "A bomba fornecedora de \u00e1gua apresenta ru\u00eddos estranhos e est\u00e1 operando de forma inst\u00e1vel, podendo comprometer o desempenho da produ\u00e7\u00e3o.",
+            "A bomba fornecedora de \u00e1gua est\u00e1 superaquecendo e desligando autom\u00e1ticamente, o que pode causar danos maiores ao equipamento.",
+            "A bomba fornecedora de \u00e1gua est\u00e1 apresentando baixa press\u00e3o, o que est\u00e1 afetando a efici\u00eancia da produ\u00e7\u00e3o.",
+            "A bomba fornecedora de \u00e1gua apresenta mau funcionamento no controle de fluxo, causando oscila\u00e7\u00f5es na produ\u00e7\u00e3o."
+        ]
+    },
+    {
+        "classe": "bomb",
+        "texts": [
+            "O motor est\u00e1 gerando mais pot\u00eancia do que a capacidade nominal e apresentando aumento de temperatura.",
+            "O motor aparenta estar sobrecarregado e apresenta aquecimento excessivo.",
+            "O motor est\u00e1 operando com uma pot\u00eancia acima do suportado, resultando em temperatura elevada.",
+            "Observa-se um aumento anormal da temperatura no motor, o que indica que est\u00e1 operando em pot\u00eancia excedente.",
+            "O motor est\u00e1 apresentando superaquecimento devido a uma pot\u00eancia utilizada al\u00e9m da capacidade nominal.",
+            "O acionamento da bomba est\u00e1 causando altera\u00e7\u00f5es na prote\u00e7\u00e3o do motor.",
+            "A prote\u00e7\u00e3o do motor \u00e9 afetada quando a bomba \u00e9 acionada.",
+            "H\u00e1 um problema na prote\u00e7\u00e3o do motor que ocorre quando a bomba \u00e9 acionada.",
+            "O acionamento da bomba est\u00e1 interferindo na prote\u00e7\u00e3o do motor.",
+            "A prote\u00e7\u00e3o do motor apresenta falhas quando a bomba \u00e9 acionada."
+        ]
+    },
+    {
+        "classe": "bomb",
+        "texts": [
+            "Um dos meus rolamentos est\u00e1 apresentando alta temperatura, o que pode ser um indicativo de sobrecarga ou falta de lubrifica\u00e7\u00e3o.",
+            "Notei que um dos meus rolamentos est\u00e1 emitindo um ru\u00eddo estranho e apresentando alta temperatura, o que pode ser um sintoma de desgaste.",
+            "O rolamento que utilizo em uma das minhas m\u00e1quinas est\u00e1 operando com alta temperatura, mesmo com os devidos cuidados de manuten\u00e7\u00e3o preventiva.",
+            "O rolamento que utilizo em uma das minhas m\u00e1quinas est\u00e1 superaquecendo, o que pode comprometer o funcionamento de todo o processo produtivo.",
+            "Identifiquei que o rolamento de uma das minhas m\u00e1quinas est\u00e1 apresentando alta temperatura, o que pode indicar a necessidade de troca ou reparo imediato.",
+            "O rolamento est\u00e1 superaquecendo e isso est\u00e1 afetando a produtividade da linha de produ\u00e7\u00e3o. Precisamos de uma solu\u00e7\u00e3o urgente para evitar paradas frequentes.",
+            "Notamos que o rolamento est\u00e1 emitindo um ru\u00eddo estranho e detectamos que a temperatura est\u00e1 acima do normal. Isso est\u00e1 prejudicando a qualidade do produto final.",
+            "O rolamento da m\u00e1quina X est\u00e1 apresentando alta temperatura e isso est\u00e1 ocasionando desgaste precoce. Gostar\u00edamos de uma an\u00e1lise t\u00e9cnica para solucionar esse problema.",
+            "Ocorreu uma quebra no rolamento da m\u00e1quina Y devido \u00e0 alta temperatura. Precisamos de uma manuten\u00e7\u00e3o corretiva para evitar preju\u00edzos maiores.",
+            "O rolamento da m\u00e1quina Z est\u00e1 com sobreaquecimento e isso est\u00e1 causando um aumento no consumo de energia el\u00e9trica. Precisamos de uma solu\u00e7\u00e3o para reduzir os custos de produ\u00e7\u00e3o."
+        ]
+    },
+    {
+        "classe": "bomb",
+        "texts": [
+            "O rolamento continua aquecendo mesmo ap\u00f3s a manuten\u00e7\u00e3o",
+            "O excesso de calor no rolamento tem afetado a produtividade da linha de produ\u00e7\u00e3o",
+            "O problema persiste mesmo ap\u00f3s a troca de pe\u00e7as do rolamento",
+            "O aquecimento constante do rolamento tem causado paradas n\u00e3o programadas na produ\u00e7\u00e3o",
+            "O aumento da temperatura no rolamento tem gerado preocupa\u00e7\u00e3o quanto \u00e0 seguran\u00e7a dos funcion\u00e1rios",
+            "O rolamento est\u00e1 continuamente emitindo calor excessivo, o que pode indicar uma poss\u00edvel falha no sistema. Gostaria de solicitar uma avalia\u00e7\u00e3o t\u00e9cnica para identificar o problema e evitar poss\u00edveis danos \u00e0 m\u00e1quina.",
+            "A temperatura do rolamento est\u00e1 elevada e persistente, o que pode estar causando desgaste prematuro das pe\u00e7as envolvidas. Por favor, envie um t\u00e9cnico para solucionarmos o problema o quanto antes.",
+            "Notamos que o rolamento est\u00e1 aquecendo de forma anormal e constante, o que pode levar a paradas indesejadas na produ\u00e7\u00e3o. Solicitamos a interven\u00e7\u00e3o da equipe t\u00e9cnica para identificar e resolver o problema.",
+            "O rolamento est\u00e1 apresentando temperatura elevada de forma persistente, o que pode ser prejudicial tanto para a m\u00e1quina quanto para a seguran\u00e7a dos operadores. Por gentileza, envie um t\u00e9cnico especializado para avaliar e consertar o problema.",
+            "A temperatura do rolamento est\u00e1 constantemente alta, o que pode estar acarretando em falhas no sistema, al\u00e9m do aumento no consumo de energia. Solicito uma visita t\u00e9cnica para solucionar o problema com rapidez."
+        ]
+    },
+    {
+        "classe": "bomb",
+        "texts": [
+            "A descarga da minha m\u00e1quina n\u00e3o est\u00e1 funcionando adequadamente e estou tendo problemas para escoar os res\u00edduos.",
+            "A descarga da minha caldeira n\u00e3o est\u00e1 funcionando corretamente e estou enfrentando dificuldades para descartar os res\u00edduos.",
+            "Estou com problemas na descarga da minha tubula\u00e7\u00e3o e estou tendo dificuldades para escoar os res\u00edduos.",
+            "Minha m\u00e1quina est\u00e1 apresentando uma baixa press\u00e3o na descarga, o que est\u00e1 interferindo no escoamento dos res\u00edduos.",
+            "Minha linha de produ\u00e7\u00e3o est\u00e1 enfrentando problemas com a descarga dos res\u00edduos, pois a press\u00e3o est\u00e1 muito baixa.",
+            "A m\u00e1quina em quest\u00e3o est\u00e1 apresentando descarga insuficiente, o que est\u00e1 resultando na queda da efici\u00eancia do processo. \u00c9 necess\u00e1rio que um t\u00e9cnico venha at\u00e9 a planta para realizar a manuten\u00e7\u00e3o.",
+            "A descarga da m\u00e1quina n\u00e3o est\u00e1 atendendo \u00e0s demandas da produ\u00e7\u00e3o, o que est\u00e1 afetando diretamente a produtividade. Solicito a visita do servi\u00e7o de manuten\u00e7\u00e3o para solucionar o problema.",
+            "Estamos enfrentando problemas com a descarga da m\u00e1quina, que est\u00e1 abaixo do esperado. Gostaria de agendar um reparo para que o desempenho do equipamento seja retomado.",
+            "Ao avaliar o desempenho das m\u00e1quinas, identificamos que uma delas apresenta problemas de descarga, o que est\u00e1 afetando a qualidade do produto final. Favor realizar a manuten\u00e7\u00e3o o quanto antes.",
+            "A descarga da m\u00e1quina n\u00e3o est\u00e1 sendo suficiente para atender as necessidades de produ\u00e7\u00e3o, o que est\u00e1 impactando na entrega dos pedidos. Solicito que verifiquem e realizem o reparo necess\u00e1rio."
+        ]
+    },
+    {
+        "classe": "bomb",
+        "texts": [
+            "O consumo de energia em nossa produ\u00e7\u00e3o aumentou consideravelmente nos \u00faltimos meses, gostar\u00edamos de resolver essa quest\u00e3o para reduzir nossos custos.",
+            "Precisamos identificar as causas do elevado consumo de energia em nossa produ\u00e7\u00e3o, \u00e9 um problema que prejudica nosso desempenho financeiro.",
+            "A conta de energia el\u00e9trica de nossa empresa chegou com um valor bem elevado e precisamos verificar o que pode estar causando este aumento.",
+            "Estamos preocupados com o alto consumo de energia em nossa empresa e gostar\u00edamos de implementar medidas para reduzir esse impacto financeiro.",
+            "Nosso consumo de energia em determinado setor est\u00e1 acima do esperado e precisamos encontrar solu\u00e7\u00f5es para reverter essa situa\u00e7\u00e3o.",
+            "Estamos enfrentando um problema de alto consumo de energia em nossos equipamentos industriais.",
+            "Nossa empresa identificou um aumento significativo na conta de energia el\u00e9trica e acreditamos que o problema esteja relacionado ao consumo excessivo de energia nos nossos maquin\u00e1rios.",
+            "Precisamos de ajuda para identificar as causas do consumo excessivo de energia em nossos processos produtivos.",
+            "Notamos um aumento no consumo de energia el\u00e9trica em nossa linha de produ\u00e7\u00e3o e gostar\u00edamos de uma avalia\u00e7\u00e3o t\u00e9cnica para solucionar o problema.",
+            "Necessitamos de uma an\u00e1lise detalhada para descobrir o motivo pelo qual nossos equipamentos est\u00e3o consumindo tanta energia el\u00e9trica."
+        ]
+    },
+    {
+        "classe": "rolament",
+        "texts": [
+            "A m\u00e1quina apresentou superaquecimento durante uma opera\u00e7\u00e3o de produ\u00e7\u00e3o, levando a uma parada n\u00e3o programada. \u00c9 necess\u00e1rio realizar uma inspe\u00e7\u00e3o e manuten\u00e7\u00e3o para garantir sua efici\u00eancia e evitar futuros problemas.",
+            "O equipamento apresentou superaquecimento ap\u00f3s uma sobrecarga na carga de trabalho. Precisamos de uma solu\u00e7\u00e3o imediata para evitar perda de produ\u00e7\u00e3o.",
+            "Durante a \u00faltima manuten\u00e7\u00e3o preventiva, a equipe detectou um aumento na temperatura do motor, indicando poss\u00edvel superaquecimento. Solicitamos uma avalia\u00e7\u00e3o completa do sistema para evitar riscos \u00e0 seguran\u00e7a e falhas no funcionamento.",
+            "O superaquecimento do ventilador de exaust\u00e3o est\u00e1 afetando a qualidade do ar na \u00e1rea de trabalho, causando desconforto e riscos \u00e0 sa\u00fade dos funcion\u00e1rios. Por favor, providencie uma solu\u00e7\u00e3o imediata para o problema.",
+            "A m\u00e1quina de solda est\u00e1 apresentando superaquecimento em determinadas situa\u00e7\u00f5es, o que pode levar a falhas nos processos de produ\u00e7\u00e3o. \u00c9 necess\u00e1rio realizar uma avalia\u00e7\u00e3o e manuten\u00e7\u00e3o para garantir sua operabilidade.",
+            "A m\u00e1quina apresentou um elevado aquecimento nos componentes internos, ocasionando falhas no seu funcionamento.",
+            "O motor da esteira apresentou superaquecimento e foi necess\u00e1rio interromper a produ\u00e7\u00e3o para solucionar o problema.",
+            "A temperatura excessiva no equipamento de solda causou danos aos seus componentes, afetando diretamente o desempenho da produ\u00e7\u00e3o.",
+            "O sistema el\u00e9trico da linha de produ\u00e7\u00e3o apresentou superaquecimento em alguns dos seus circuitos, causando instabilidade no processo produtivo.",
+            "A alta temperatura no forno industrial ocasionou a queima das pe\u00e7as em seu interior, prejudicando a qualidade final do produto. "
+        ]
+    },
+    {
+        "classe": "rolament",
+        "texts": [
+            "O motor da nossa m\u00e1quina est\u00e1 apresentando superaquecimento constante, mesmo ap\u00f3s diversas tentativas de resolu\u00e7\u00e3o do problema.",
+            "Nosso sistema de refrigera\u00e7\u00e3o n\u00e3o est\u00e1 sendo suficiente para evitar o superaquecimento frequente em nossos equipamentos.",
+            "Estamos enfrentando problemas de superaquecimento cr\u00f4nico em nossos maquin\u00e1rios, o que est\u00e1 prejudicando nossa produtividade.",
+            "Investimos em diversas manuten\u00e7\u00f5es preventivas, mas ainda assim estamos tendo problemas recorrentes de superaquecimento em nossos equipamentos.",
+            "Os sensores indicam temperaturas acima do normal em nossos equipamentos, evidenciando um problema constante de superaquecimento.",
+            "O equipamento apresenta superaquecimento constante, mesmo ap\u00f3s a realiza\u00e7\u00e3o de manuten\u00e7\u00f5es preventivas.",
+            "O motor da m\u00e1quina est\u00e1 superaquecendo frequentemente e comprometendo o processo produtivo.",
+            "Verificamos que h\u00e1 um ac\u00famulo de sujeira na tubula\u00e7\u00e3o, o que pode estar contribuindo para o superaquecimento do sistema.",
+            "Os term\u00f4metros indicam que a temperatura est\u00e1 acima do limite recomendado, o que pode causar danos aos equipamentos.",
+            "Durante as opera\u00e7\u00f5es, percebemos que h\u00e1 um ru\u00eddo estranho vindo da m\u00e1quina, al\u00e9m do superaquecimento."
+        ]
+    },
+    {
+        "classe": "rolament",
+        "texts": [
+            "O rolamento da m\u00e1quina X est\u00e1 apresentando um ru\u00eddo estranho ao ser usado, precisamos de uma an\u00e1lise para identificar e solucionar o problema.",
+            "O rolamento da m\u00e1quina Y est\u00e1 incomodando os ouvidos dos funcion\u00e1rios, por isso solicitamos uma visita t\u00e9cnica para verific\u00e1-lo.",
+            "O rolamento da m\u00e1quina Z est\u00e1 apresentando um barulho muito alto durante a opera\u00e7\u00e3o, estamos preocupados com a integridade da m\u00e1quina e solicitamos uma avalia\u00e7\u00e3o especializada.",
+            "O ru\u00eddo do rolamento da m\u00e1quina A est\u00e1 se intensificando e temos receio de que isso possa afetar sua durabilidade. Precisamos de uma inspe\u00e7\u00e3o t\u00e9cnica imediata.",
+            "No rolamento da m\u00e1quina B h\u00e1 um som estranho e inconstante que est\u00e1 nos preocupando. Solicitamos uma visita t\u00e9cnica para an\u00e1lise e identifica\u00e7\u00e3o do problema.",
+            "M\u00e1quina apresentando amassamento irregular no material durante o processo de produ\u00e7\u00e3o.",
+            "Observamos que h\u00e1 incrusta\u00e7\u00e3o de material na m\u00e1quina, ocasionando problemas no processo produtivo.",
+            "Pist\u00e3o com mau funcionamento, apresentando irregularidades durante a opera\u00e7\u00e3o da m\u00e1quina.",
+            "Defeito identificado na m\u00e1quina devido ao material incrustado no equipamento.",
+            "Material pist\u00e3o apresentando amassados e irregularidades no processo produtivo."
+        ]
+    },
+    {
+        "classe": "rolament",
+        "texts": [
+            "O rolamento da m\u00e1quina X apresenta ru\u00eddos cont\u00ednuos e incomodativos durante o funcionamento.",
+            "O rolamento da m\u00e1quina Y emite um barulho constante e irritante que n\u00e3o cessa durante a opera\u00e7\u00e3o.",
+            "O rolamento da m\u00e1quina Z produz um som cont\u00ednuo e desconfort\u00e1vel que indica um poss\u00edvel desgaste ou falha.",
+            "O ru\u00eddo constante proveniente do rolamento da m\u00e1quina W pode indicar a necessidade de uma manuten\u00e7\u00e3o preventiva.",
+            "Os ru\u00eddos cont\u00ednuos vindos do rolamento da m\u00e1quina V comprometem a qualidade da produ\u00e7\u00e3o e comprometem a seguran\u00e7a operacional.",
+            "A m\u00e1quina apresenta uma irregularidade no material produzido, com algumas partes mais amassadas do que outras. O problema parece ser de origem mec\u00e2nica e pode estar afetando a qualidade do produto final.",
+            "A linha de produ\u00e7\u00e3o est\u00e1 com problemas de incrusta\u00e7\u00f5es de sujeira, o que pode prejudicar o funcionamento das m\u00e1quinas e gerar problemas de seguran\u00e7a. \u00c9 necess\u00e1rio realizar uma limpeza completa das m\u00e1quinas e da \u00e1rea de produ\u00e7\u00e3o.",
+            "A pe\u00e7a produzida apresenta uma superf\u00edcie amassada e irregular, o que indica um problema na prensa utilizada no processo de fabrica\u00e7\u00e3o. \u00c9 preciso verificar a m\u00e1quina e fazer os ajustes necess\u00e1rios para garantir a qualidade da produ\u00e7\u00e3o.",
+            "A m\u00e1quina de corte est\u00e1 apresentando problemas de incrusta\u00e7\u00e3o de material nas l\u00e2minas, o que est\u00e1 prejudicando sua precis\u00e3o e causando atrasos na produ\u00e7\u00e3o. \u00c9 necess\u00e1rio fazer a manuten\u00e7\u00e3o preventiva e a limpeza das l\u00e2minas com mais frequ\u00eancia.",
+            "O pist\u00e3o do equipamento est\u00e1 apresentando problemas de funcionamento, com falhas e interrup\u00e7\u00f5es no movimento. \u00c9 preciso verificar o sistema hidr\u00e1ulico e fazer as manuten\u00e7\u00f5es necess\u00e1rias para evitar danos maiores."
+        ]
+    }
+]

@@ -1,6 +1,0 @@
-o modelo será treinado com: 
-    classes: 
-        cada classe será um valor único da coluna
-    conjunto de treinamento:
-        será composto por 3 principais tipos de dados: lista de sinonimos originais, lista de sinonimos stematizados, lista de sinonimos lematizado.
-    
