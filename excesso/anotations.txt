@@ -6,11 +6,21 @@ o modelo será treinado com:
 
 -------------------------------------------------------
 
-labels NER:
-    equipamentos
-
-labels clasificador de intenção:
-    problemas
+"Cumprimentos e saudações",
+"Solicitação de ajuda para solucionar um problema",
+"Pedido de resolução do problema",
+Identificação do equipamento
+Identificação do problema
+Pedido de resolução do problema
+"Dúvida na identificação do equipamento",
+"Dúvida na identificação do problema",
+"Pedido de esclarecimento",
+"Feedback sobre a solução fornecida",
+Solicitação de informações adicionais
+"Reclamação ou insatisfação",
+"Agradecimento",
+Palavras censuradas
+"Encerramento da conversa"
 
 -------------------------------------------------------
 Intenções:
