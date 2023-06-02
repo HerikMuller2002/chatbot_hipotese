@@ -1,3 +1,44 @@
 [
-    {"label":"name_label...","samples":["text1","text2..."]}
+    {"label":"SAUDACAO","samples":["oi",
+                                    "bom dia",
+                                    "boa tarde",
+                                    "boa noite",
+                                    "good morning",
+                                    "hi",
+                                    "hello",
+                                    "olá",
+                                    "ola",
+                                    "hey",
+                                    "eai",
+                                    "eae",
+                                    "e ai",
+                                    "e ae",
+                                    "esta bem",
+                                    "tudo bem",
+                                    "salve",
+                                    "olá!",
+                                    "bem-vindo!",
+                                    "seja bem-vindo!",
+                                    "boa tarde!",
+                                    "oi, tudo bem?",
+                                    "oi, como vai?",
+                                    "oi, seja bem-vindo!",
+                                    "olá, é um prazer te ver!",
+                                    "oi, que bom que você veio!"]},
+
+    {"label":"AJUDA","samples":["pode me ajudar?","estou com problema","tenho um problema","me ajuda","estou com um problemão","tenho um problemão","estou com probleminha","tenho um probleminha","preciso de uma mão","me da uma mãozinha","preciso de uma ajudinha","problema","problemas","probleminha","problemão"]},
+
+    {"label":"PROBLEMA","samples":["text1","text2..."]},
+
+    {"label":"INCERTEZA","samples":["text1","text2..."]},
+
+    {"label":"ESCLARECIMENTO","samples":["text1","text2..."]},
+
+    {"label":"FEEDBACK","samples":["text1","text2..."]},
+
+    {"label":"INSATISFACAO","samples":["text1","text2..."]},
+
+    {"label":"AGRADECIMENTO","samples":["obrigada", "tks", "thank you", "valeu", "obrigada pela ajuda", "muito obrigada","obrigado", "ogd", "thank you","valeu","obrigado pela ajuda", "muito obrigado","obrigado!", "muito obrigado!", "agradeço muito!", "obrigada!", "muito obrigada!", "agradeço muito!", "obrigado por sua ajuda!", "muito obrigado por sua ajuda!", "agradeço muito por sua ajuda!", "obrigado pela resposta!", "muito obrigado pela resposta!", "agradeço muito pela resposta!", "obrigado pela sua atenção!", "muito obrigado pela sua atenção!", "agradeço muito pela sua atenção!", "muito obrigado pela sua ajuda, você foi muito útil!", "agradeço muito pela sua ajuda, você foi muito útil!","vlw"]},
+
+    {"label":"DESPEDIDA","samples":["tchau", "bye", "falou", "tchau tchau", "bye bye", "até mais", "a gente se ve",  "até logo", "adeus", "exit", "sair", "sai", "flw", "xau", "encerrar", "finalizar", "parar", "cancelar", "desligar", "terminar"]}
 ]

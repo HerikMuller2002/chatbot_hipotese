@@ -11,7 +11,6 @@ o modelo será treinado com:
 "Pedido de resolução do problema",
 Identificação do equipamento
 Identificação do problema
-Pedido de resolução do problema
 "Dúvida na identificação do equipamento",
 "Dúvida na identificação do problema",
 "Pedido de esclarecimento",
